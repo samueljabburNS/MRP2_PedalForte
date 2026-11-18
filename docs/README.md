@@ -200,3 +200,6 @@ apontar, recebimento de OC, CRP, custo, CSV e gráficos. Também foi conferido
 que, ao fechar e reabrir o programa, o status das ordens e o kardex
 permanecem. O cálculo do MRP, o CRP e o custo padrão foram validados contra os
 mockups 6.4, 6.6 e 6.7 do enunciado.
+
+SEGUE LINK DE ACESSO AOS VIDEOS:
+[Vídeo de demonstração do sistema em funcionamento](https://youtu.be/omjetlfE1W4)
